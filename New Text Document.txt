@@ -1,0 +1,3 @@
+1.transforma ultima cifra in litere
+2.inversul unui numar
+3.gasirea unui cuvant aproximativ intr-un text
